@@ -10,7 +10,7 @@
 - [ACAP 1.0 Duplication Methods - Youtube Playlist](https://youtube.com/playlist?list=PLk51OcRoDPHbXE_iVwmG_UwmsYwNOPoEP)
 - [Initial ACAP 1.0 Duplication Checklist](https://acaptutorials.github.io/assets-cms/posts/post/?id=83Nc7KofhEU91LJOOtQd)
 
-### ACAP Blog/CMS
+### ACAP Blog/Notes/CMS
 
 - [https://acaptutorials.github.io/assets-cms/](https://acaptutorials.github.io/assets-cms/)
 
