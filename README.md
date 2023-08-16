@@ -14,3 +14,8 @@
 
 - [https://acaptutorials.github.io/assets-cms/](https://acaptutorials.github.io/assets-cms/)
 
+### ACAP Tools
+
+- [cropping calendar generator](https://github.com/ciatph/crop-calendar-generator) - Generates random cropping calendar data for the municipalities of a selected region using municipality names from a PAGASA 10-day weather forecast Excel file
+- [municipality names extractor](https://github.com/ciatph/ph-municipalities) - List and write the municipalities of Philippines provinces or regions into JSON files from PAGASA 10-Day weather forecast excel files 
+
