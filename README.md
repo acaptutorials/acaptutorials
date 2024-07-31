@@ -10,6 +10,12 @@
 - [ACAP 1.0 Duplication Methods - Youtube Playlist](https://youtube.com/playlist?list=PLk51OcRoDPHbXE_iVwmG_UwmsYwNOPoEP)
 - [Initial ACAP 1.0 Duplication Checklist / Success Scenarios & Expectations](https://acaptutorials.github.io/assets-cms/posts/post/?id=83Nc7KofhEU91LJOOtQd)
 
+### ACAP 1.0 Security Guidelines
+
+> ACAP 1.0 adheres to strict security practices as defined by its technology stack. When extending ACAP 1.0 to add or enhance features, please ensure continued compliance with these security standards.
+
+- [ACAP 1.0 Security](https://acaptutorials.github.io/assets-cms/posts/post/?id=83Nc7KofhEU91LJOOtQd#security)
+
 ### ACAP Blog/Notes/CMS
 
 - [https://acaptutorials.github.io/assets-cms/](https://acaptutorials.github.io/assets-cms/)
