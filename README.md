@@ -6,6 +6,9 @@
 
 - https://acaptutorials.github.io
 
+### ACAP Changelog
+- https://acaptutorials.github.io/changelog/
+
 ### Useful ACAP References
 
 - [ACAP 1.0 Local Development Requirements](https://acaptutorials.github.io/assets-cms/posts/post/?id=GcbgDmEmkDoGTWgM8SYZ)
