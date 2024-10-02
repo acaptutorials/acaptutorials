@@ -16,7 +16,6 @@
 - [ACAP 1.0 Duplication for New Regions Running on Localhost (Development)](https://acaptutorials.github.io/assets-cms/posts/post/?id=Teo2m6os7LZtsEi0nGWw)
 - [ACAP 1.0 Duplication Methods - Youtube Playlist](https://youtube.com/playlist?list=PLk51OcRoDPHbXE_iVwmG_UwmsYwNOPoEP)
 - [Initial ACAP 1.0 Duplication Checklist / Success Scenarios & Expectations](https://acaptutorials.github.io/assets-cms/posts/post/?id=83Nc7KofhEU91LJOOtQd)
-- [ACAP 1.0 PDF Bulletins Development](https://acaptutorials.github.io/assets-cms/posts/post/?id=nDzwZ6Qu6OvS0UyLswkl)
 
 ### ACAP Blog/Notes/CMS
 
