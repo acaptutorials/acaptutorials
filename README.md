@@ -21,5 +21,11 @@
 
 - [https://acaptutorials.github.io/assets-cms/](https://acaptutorials.github.io/assets-cms/)
 
+### ACAP Mindset on Security
 
+- Do not take shortcuts in development
+- Proactive approach to user-critical items
+- Genuine concern for user safety
+- Avoid doing the pitfalls of the hypothetical software developer inquired with ChatGPT:<br>
+https://chatgpt.com/share/678fc358-bd68-8012-8626-53affe497457
 
