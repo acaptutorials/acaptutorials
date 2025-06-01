@@ -24,10 +24,10 @@
 ### ACAP Professional Mindset on Security
 
 - Follows industry best practices and maintains a principled approach to secure software development.
-- Avoids prioritizing feature delivery speed at the cost of long-term security and code integrity.
-- Demonstrates a proactive security mindset:
+- Avoids prioritizing _feature delivery speed_ at the cost of _long-term security_ and _code integrity_.
+- Demonstrates a **proactive security mindset**:
    - Takes genuine responsibility for protecting user data and safety.
-   - Integrates security considerations at every phase of development—not—just post-incident.
+   - Integrates security considerations at every phase of development—not just post-incident.
    - Practices **defensive programming** rather than **reactive patching**.
    - Responds to security reports with urgency, especially when issues are clearly reproducible and verifiable.
 - Remains open to alternative perspectives and solutions for improving security—avoiding the trap of assuming their approach is always best.
