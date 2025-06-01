@@ -21,11 +21,16 @@
 
 - [https://acaptutorials.github.io/assets-cms/](https://acaptutorials.github.io/assets-cms/)
 
-### ACAP Mindset on Security
+### ACAP Professional Mindset on Security
 
-- Do not take shortcuts in development
-- Proactive approach to user-critical items
-- Genuine concern for user safety
-- Avoid doing the pitfalls of the hypothetical software developer inquired with ChatGPT:<br>
-https://chatgpt.com/share/678fc358-bd68-8012-8626-53affe497457
+- Follows industry best practices and maintains a principled approach to secure software development.
+- Avoids prioritizing feature delivery speed at the cost of long-term security and code integrity.
+- Demonstrates a proactive security mindset:
+   - Takes genuine responsibility for protecting user data and safety.
+   - Integrates security considerations at every phase of development—not—just post-incident.
+   - Practices **defensive programming** rather than **reactive patching**.
+   - Responds to security reports with urgency, especially when issues are clearly reproducible and verifiable.
+- Remains open to alternative perspectives and solutions for improving security—avoiding the trap of assuming their approach is always best.
+- Good communication skills - communicating properly and asking for help/advice regarding if they are having blockers implementing security
+- High regards for **deadlines** and **accountability**
 
