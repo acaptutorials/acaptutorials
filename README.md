@@ -21,7 +21,7 @@
 
 - [https://acaptutorials.github.io/assets-cms/](https://acaptutorials.github.io/assets-cms/)
 
-### ACAP Professional Mindset on Security
+### 🔐 ACAP Professional Mindset on Security
 
 - Follows industry best practices and maintains a principled approach to secure software development.
 - Avoids prioritizing _feature delivery speed_ at the cost of _long-term security_ and _code integrity_.
